@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>"Like a wolf — I move with curiosity, push past every limit, and never settle until the impossible is done. Ethics is my code. The hunt never stops."</em>
+  <em>"Like a wolf — I push past every limit, and never settle until the impossible is done."</em>
 </p>
 
 <p align="center">
