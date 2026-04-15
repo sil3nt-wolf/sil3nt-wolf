@@ -44,20 +44,22 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 
 ---
 
-### 🚀 TOP PROJECTS
-
-| # | Repository | ⭐ Stars | 🍴 Forks | Status |
-|---|-----------|---------|---------|--------|
-| 🥇 | [**wolfXnode**](https://github.com/sil3nt-wolf/wolfXnode) — WhatsApp bot hosting platform with M-Pesa & card payments | — | — | **LIVE** |
-| 🥈 | [**pairing**](https://github.com/sil3nt-wolf/pairing) — WhatsApp session generator, open-source & easy to use | — | — | **OPEN SOURCE** |
-| 🥉 | [**WOLF-XD-ULTRA**](https://github.com/sil3nt-wolf/WOLF-XD-ULTRA) — Advanced WhatsApp bot suite with AI & plugins | — | — | **WIP** |
-
-> **wolfXnode** is live at [host.xwolf.space](https://host.xwolf.space) — deploy WhatsApp bots in one click
+### 🚀 TOP REPOS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=sil3nt-wolf&repo=wolfXnode&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00" alt="wolfXnode"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sil3nt-wolf&theme=github_dark" alt="Repos Per Language" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=sil3nt-wolf&repo=pairing&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00" alt="pairing"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sil3nt-wolf&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sil3nt-wolf&theme=github_dark" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sil3nt-wolf&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
 ---
