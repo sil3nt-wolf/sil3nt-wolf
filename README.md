@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <em>"Like a wolf — I move with curiosity, push past every limit, and never settle until the impossible is done. Ethics is my code. The hunt never stops."</em>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;WhatsApp+Bot+Engineer+%F0%9F%A4%96;VPS+%26+Infrastructure+Builder+%E2%9A%99%EF%B8%8F;Open-Source+for+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Build.+Deploy.+Dominate.+%E2%9A%A1" alt="Typing SVG" />
   </a>
