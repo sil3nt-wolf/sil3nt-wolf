@@ -1,0 +1,75 @@
+name: Update Top Repos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build top repos table
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sil3nt-wolf
+        run: |
+          mkdir -p /tmp/work
+
+          gh api "users/${USERNAME}/repos?per_page=100&type=owner" \
+            | jq -r '
+                map(select(.fork == false and .archived == false))
+                | sort_by(-((.stargazers_count * 2) + .forks_count + (.watchers_count // 0)))
+                | .[:5]
+                | to_entries
+                | map("| \(.key + 1) | [**\(.value.name)**](\(.value.html_url)) | \(.value.stargazers_count) | \(.value.forks_count) | \((.value.description // "No description") | gsub("\\|"; "\\|")) |")
+                | join("\n")
+              ' > /tmp/work/rows.txt
+
+          {
+            echo "<!-- TOP-REPOS:START -->"
+            echo "| # | Repository | ⭐ Stars | 🍴 Forks | Description |"
+            echo "|---|------------|---------|---------|-------------|"
+            cat /tmp/work/rows.txt
+            echo ""
+            echo "<!-- TOP-REPOS:END -->"
+          } > /tmp/work/section.md
+
+      - name: Inject table into README
+        run: |
+          python3 - << 'PYEOF'
+          import re
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          with open('/tmp/work/section.md', 'r', encoding='utf-8') as f:
+              section = f.read().strip()
+          new_content = re.sub(
+              r'<!-- TOP-REPOS:START -->[\s\S]*?<!-- TOP-REPOS:END -->',
+              section,
+              content
+          )
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          PYEOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --quiet --cached; then
+            git commit -m "chore: refresh top 5 repos table"
+            git push
+          else
+            echo "No changes to commit."
+          fi

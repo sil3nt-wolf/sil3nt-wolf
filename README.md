@@ -50,9 +50,13 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 
 ### 🚀 TOP REPOS
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
-</p>
+<p align="center"><i>Auto-updated every 6 hours · ranked by stars + forks</i></p>
+
+<!-- TOP-REPOS:START -->
+| # | Repository | ⭐ Stars | 🍴 Forks | Description |
+|---|------------|---------|---------|-------------|
+| — | _Loading top repos…_ | — | — | _The bot will refresh this on the next workflow run._ |
+<!-- TOP-REPOS:END -->
 
 <p align="center">
   <a href="https://github.com/sil3nt-wolf">
@@ -66,6 +70,12 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
   <a href="https://github.com/sil3nt-wolf?tab=stars">
     <img src="https://img.shields.io/badge/⭐%20Starred%20Repos-000000?style=for-the-badge&logo=github&logoColor=00ff00&color=000000&labelColor=000000" />
   </a>
+</p>
+
+#### 📊 LANGUAGE & ACTIVITY BREAKDOWN
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
