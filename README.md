@@ -35,7 +35,7 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 ### ⚡ MY STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-navy.vercel.app/api?username=sil3nt-wolf&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=ai-image-gen,evo-nexus,sportify-api,vps-manager,wolf-claw&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&border_color=00ff00&rank_icon=percentile" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api?username=sil3nt-wolf&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=ai-image-gen,evo-nexus,sportify-api,vps-manager,wolf-claw&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&border_color=00ff00" alt="GitHub Stats" />
 </p>
 
 <p align="center">
