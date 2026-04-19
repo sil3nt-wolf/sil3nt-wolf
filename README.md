@@ -55,8 +55,8 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 <!-- TOP-REPOS:START -->
 | # | Repository | ⭐ Stars | 🍴 Forks | Description |
 |---|------------|---------|---------|-------------|
-| 1 | [**silentwolf**](https://github.com/sil3nt-wolf/silentwolf) | 68 | 91 | WOLFBOT/SILENT WOLF is an advanced WhatsApp automation tool |
-| 2 | [**silentwolf-1.1.6**](https://github.com/sil3nt-wolf/silentwolf-1.1.6) | 7 | 10 | No description |
+| 1 | [**silentwolf**](https://github.com/sil3nt-wolf/silentwolf) | 68 | 91 | 🐺 Silent Wolf Bot (WOLFBOT) — Feature-rich WhatsApp automation bot built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. Self-hostable. WolfTech. |
+| 2 | [**silentwolf-1.1.6**](https://github.com/sil3nt-wolf/silentwolf-1.1.6) | 8 | 10 | 🐺 Silent Wolf Bot v1.1.6 (WOLFBOT) — Stable release of the feature-rich WhatsApp automation bot. Built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. WolfTech. |
 | 3 | [**wolfXnode**](https://github.com/sil3nt-wolf/wolfXnode) | 7 | 2 | No description |
 | 4 | [**wolfXcore**](https://github.com/sil3nt-wolf/wolfXcore) | 5 | 3 | wolfXcore — A cyberpunk-themed game server management panel with Paystack/M-Pesa billing, automated provisioning, and a full Super Admin control panel. Built with Laravel 11 + React/TypeScript. |
 | 5 | [**wolfxcore-docs**](https://github.com/sil3nt-wolf/wolfxcore-docs) | 4 | 0 | wolfXcore panel documentation — neon cyberpunk static site |
