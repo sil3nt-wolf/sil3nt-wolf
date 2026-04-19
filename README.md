@@ -55,7 +55,7 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 <!-- TOP-REPOS:START -->
 | # | Repository | ⭐ Stars | 🍴 Forks | Description |
 |---|------------|---------|---------|-------------|
-| 1 | [**silentwolf**](https://github.com/sil3nt-wolf/silentwolf) | 64 | 84 | WOLFBOT/SILENT WOLF is an advanced WhatsApp automation tool |
+| 1 | [**silentwolf**](https://github.com/sil3nt-wolf/silentwolf) | 67 | 89 | WOLFBOT/SILENT WOLF is an advanced WhatsApp automation tool |
 | 2 | [**silentwolf-1.1.6**](https://github.com/sil3nt-wolf/silentwolf-1.1.6) | 4 | 9 | No description |
 | 3 | [**wolfXnode**](https://github.com/sil3nt-wolf/wolfXnode) | 6 | 2 | No description |
 | 4 | [**wolfXcore**](https://github.com/sil3nt-wolf/wolfXcore) | 5 | 3 | wolfXcore — A cyberpunk-themed game server management panel with Paystack/M-Pesa billing, automated provisioning, and a full Super Admin control panel. Built with Laravel 11 + React/TypeScript. |
