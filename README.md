@@ -55,10 +55,10 @@
   <!-- TOP-REPOS:START -->
   | # | Repository | ⭐ Stars | 🍴 Forks | Description |
   |---|------------|---------|---------|-------------|
-  | 1 | [**silentwolf**](https://github.com/WOLFTECH-254/silentwolf) | 68 | 91 | 🐺 Silent Wolf (WOLFBOT) — Feature-rich WhatsApp automation bot built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. Self-hostable. WolfTech. |
+  | 1 | [**silentwolf**](https://github.com/WOLFTECH-254/silentwolf) | 70 | 93 | Silent Wolf WhatsApp automation bot. |
   | 2 | [**silentwolf-1.1.6**](https://github.com/WOLFTECH-254/silentwolf-1.1.6) | 8 | 10 | 🐺 Silent Wolf v1.1.6 (WOLFBOT) — Stable release of the feature-rich WhatsApp automation bot. Built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. WolfTech. |
-  | 3 | [**wolfXnode**](https://github.com/WOLFTECH-254/wolfXnode) | 7 | 2 | 🖥️ wolfXnode — Self-hostable VPS & game server hosting panel. WolfTech. |
-  | 4 | [**wolfXcore**](https://github.com/WOLFTECH-254/wolfXcore) | 5 | 3 | wolfXcore — A cyberpunk-themed game server management panel with Paystack/M-Pesa billing, automated provisioning, and a full Super Admin control panel. Built with Laravel 11 + React/TypeScript. |
+  | 3 | [**wolfXnode**](https://github.com/WOLFTECH-254/wolfXnode) | 7 | 2 | 🚀 wolfXnode — Heroku-like hosting platform for WhatsApp bots. Deploy from GitHub, real-time logs, M-Pesa & Paystack payments, SuperAdmin panel. WolfTech. |
+  | 4 | [**wolfXcore**](https://github.com/WOLFTECH-254/wolfXcore) | 5 | 3 |  |
   | 5 | [**wolfxcore-docs**](https://github.com/WOLFTECH-254/wolfxcore-docs) | 4 | 0 | wolfXcore panel documentation — neon cyberpunk static site |
 
   <!-- TOP-REPOS:END -->
