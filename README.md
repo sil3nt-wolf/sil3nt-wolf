@@ -57,7 +57,7 @@ A fully-featured **open-source WhatsApp bot** built from scratch using **Node.js
 
 **Stack:** Node.js · Baileys · JavaScript · SQLite  
 **Capabilities:** AI assistants · group management · media downloaders · games · 200+ commands  
-**Traction:** ⭐ 86 stars · 🍴 112 forks · Active deployments across Africa
+**Traction:** Active deployments across Africa · 100+ forks & growing
 
 > 🔗 **If you're building on Baileys or need a WhatsApp bot starter — this is your framework.**  
 > ⭐ Star it. 🍴 Fork it. Build on it.
@@ -111,7 +111,7 @@ I operate at the intersection of **SaaS engineering**, **automation systems**, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&rank_icon=github&hide_rank=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af" alt="GitHub Stats" />
 </p>
 
 <p align="center">
